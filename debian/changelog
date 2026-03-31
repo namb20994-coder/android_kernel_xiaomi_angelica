@@ -1,0 +1,6 @@
+linux-android-redmi-angelica (0.0.0+git20260312222506.b165161.droidian) trixie; urgency=medium
+
+  * kbuild: Port silent mode detection to future gnu make.
+
+ -- Dmitry Goncharov <dgoncharov@users.sf.net>  Fri, 13 Mar 2026 05:25:06 +0700
+

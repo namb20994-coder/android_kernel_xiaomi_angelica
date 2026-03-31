@@ -1,0 +1,26 @@
+# Build Artifacts
+*.o
+*.ko
+*.so
+*.a
+*.elf
+*.bin
+*.gz
+*.dtb
+*.dtbo
+*.mod.c
+*.symvers
+*.order
+vmlinux
+System.map
+
+# Directories to ignore
+out/
+scripts/basic/
+scripts/kconfig/
+include/config/
+include/generated/
+.tmp_versions/
+
+# Droidian/Halium generated (if any)
+*.img
