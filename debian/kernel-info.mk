@@ -31,7 +31,7 @@ DEVICE_FULL_NAME = Xiaomi Redmi 9C
 KERNEL_CONFIG_USE_FRAGMENTS = 1
 
 # Enable kernel config device extra fragments
-# KERNEL_CONFIG_EXTRA_FRAGMENTS = container.config debug.config other.config
+KERNEL_CONFIG_EXTRA_FRAGMENTS = droidian.config halium.config angelica.config
 
 # Whether to use diffconfig to generate the device-specific configuration.
 # If you enable this, you should set KERNEL_CONFIG_USE_FRAGMENTS to 1.
